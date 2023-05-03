@@ -1,6 +1,6 @@
 # fly.toml file generated for wandering-hill-1037 on 2023-05-03T19:53:31+09:00
 
-app = "wandering-hill-1037"
+app = "solitary-fire-8480"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
